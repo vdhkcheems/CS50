@@ -1,5 +1,5 @@
 # CS50
-This Repository contains all my CS50 programs
+This Repository contains all my CS50 programs to this date.
 This is CS50.
 
 Details about every program
