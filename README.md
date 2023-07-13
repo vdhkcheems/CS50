@@ -1,6 +1,5 @@
 # CS50
 This Repository contains all my CS50 programs to this date.
-This is CS50.
 
 Details about every program
 1. avgcalc = will calculate avg of as many numbers you like.
@@ -13,3 +12,5 @@ Details about every program
 8. runoff = simulates an election based on runoff system.
 9. scrabble = simulates a game of scrabble between two players.
 10. substitution = will encrypt plaintext to ciphertext by substituting different letters in place of original letters using a key(input)
+
+This was CS50.
