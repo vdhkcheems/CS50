@@ -1,4 +1,4 @@
-// Modifies the volume of an audio file
+// Modifies the volume of an .wav audio file
 
 #include <stdint.h>
 #include <stdio.h>
